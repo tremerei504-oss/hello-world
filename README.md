@@ -1,2 +1,4 @@
+Reginald Wilson is a Texas-based real estate investor, Realtor, and entrepreneur with a passion for building businesses that create long-term wealth through property ownership. As the founder of Treme Realty LLC, a brand inspired by his family roots in the historic Treme neighborhood of New Orleans, Reginald focuses on helping clients buy, sell, and invest in real estate while educating others on the power of real estate investing.
+With decades of experience in real estate and business, Reginald works closely with his daughter Leah in their family real estate company, continuing a legacy of entrepreneurship and generational opportunity. He is also an avid traveler who enjoys exploring the world with his wife Annette of 27 years and their three children.
 # hello-world
 This is my practice space for GitHub
